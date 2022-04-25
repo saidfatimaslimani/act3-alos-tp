@@ -1,0 +1,30 @@
+{
+  "name": "my-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+
+ 
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/saidfatimaslimani/act3-alos-tp.git"
+},
+"keywords": [],
+"author": "",
+"license": "ISC",
+"bugs": {
+  "url": "https://github.com/saidfatimaslimani/act3-alos-tp/issues"
+},
+"homepage": "https://github.com/saidfatimaslimani/act3-alos-tp#readme",
+"dependencies": {
+  "cors": "^2.8.5",
+  "dotenv": "^16.0.0",
+  "express": "^4.17.3",
+  "jsonwebtoken": "^8.5.1",
+  "passport": "^0.5.2",
+  "passport-jwt": "^4.0.0"
+}
+}
